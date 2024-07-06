@@ -26,13 +26,13 @@
         margin-right: 60px;
         margin-top: 20px;
         margin-bottom: 20px;
-        border: 5px solid violet;
+        border: 5px solid rgb(11, 192, 199);
     }
     .id{
-        background-color: darkmagenta;
+        background-color: rgb(71, 3, 71);
     }
     .tarjeta div{
-        border: 1px solid violet;
+        border: 1px solid rgb(197, 43, 43);
         text-align: center;
     }
 }
@@ -42,16 +42,16 @@ table {
     border: 3px solid violet;
 }
 th{
-    background-color: blueviolet;
+    background-color: rebeccapurple;
     color:white;
 }
 td{
     padding: 10px;
     text-align: center;
-    border: 1px solid violet;
+    border: 1px solid red;
 }
 tr:nth-child(odd){
-    background-color: darkorchid;
+    background-color: darkred;
 }
 .contenedor{
     display: flex;
